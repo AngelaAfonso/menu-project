@@ -1,3 +1,7 @@
+Desenvolvedores:
+Angela Afonso RA: 24000777-2
+Geovane Julio RA: 24000713-2
+
 # SweetDreams
 ### Este projeto tem como objetivo o desenvolvimento de um cardápio digital para uma confeitaria. A solução visa substituir o menu físico por uma ### plataforma acessível via site, permitindo uma navegação intuitiva e informações detalhadas sobre os produtos.
 
