@@ -26,3 +26,14 @@ botoesAdicionar.forEach((botao) => {
         totalElemento.textContent = `Total: R$ ${total.toFixed(2)}`;
     })
 })
+
+const botaoFinalizarPedido = document.getElementById('finalizar-pedido');
+
+botaoFinalizarPedido.addEventListener("click", () => {
+    alert("Pedido finalizado com sucesso " + totalElemento.textContent);
+
+    listaPedido.innerHTML = '';
+    total = 0;
+
+    totalElemento.textContent = `Total: R$ ${total.toFixed(2)}`;
+})

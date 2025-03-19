@@ -125,6 +125,10 @@ header ul li:hover{
     justify-content: space-around;
 }
 
+#lista-pedido li{
+    margin-top: 2vw;
+}
+
 /*------------PEDIDO--------------------*/
 #pedido{
     background-color: var(--color3);
